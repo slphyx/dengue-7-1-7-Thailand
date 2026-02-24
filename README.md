@@ -4,6 +4,9 @@ This repository contains the Mathematica notebook and supporting files to reprod
 "How much could faster outbreak response reduce dengue burden? 
 A 7-1-7–inspired analysis using national surveillance data from Thailand."
 
+
+![outbreak episodes](figures/fig1.png)
+
 ## Contents
 - notebooks/dengue_7-1-7_analysis.nb : main notebook
 - data/ : input data 
