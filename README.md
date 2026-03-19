@@ -12,9 +12,9 @@ A 7-1-7–inspired analysis using national surveillance data from Thailand."
 - figures/ : saved figure outputs
 
 ## Requirements
-- Wolfram Mathematica >= 12 (tested)
+- Wolfram Mathematica >= 14 (tested)
 - Recommended memory: 8GB for bootstrap
 - To run: open the notebook, execute cells in order.
 
 ## Contact
-For data access and questions, contact: sompob@tropmedres.ac
+For questions, contact: sompob@tropmedres.ac
