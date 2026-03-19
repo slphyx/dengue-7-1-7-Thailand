@@ -9,7 +9,6 @@ A 7-1-7–inspired analysis using national surveillance data from Thailand."
 
 ## Contents
 - notebooks/dengue_7-1-7_analysis.nb : main notebook
-- data/ : input data 
 - figures/ : saved figure outputs
 
 ## Requirements
